@@ -23,3 +23,5 @@
 [MuLife 프로젝트 계획서](https://rotoma-code.tistory.com/entry/MuLife-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%84%ED%9A%8D%EC%84%9C)
 
 
+# Notion 링크
+https://www.notion.so/smarcle/1-d8a7d20657da49039595f7bd202d2c94

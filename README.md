@@ -40,4 +40,4 @@ Stable Diffusion 모델을 바탕으로 text - image & spectogram - music - vide
 1) Colab
 2) hugging face - riffusion v1
 3) github - stable-diffusion-v1-5
-4) Kolab - prompt recommender
+4) Kaggle - prompt recommender

@@ -21,3 +21,5 @@
 [riffusion/riffusion-model-v1 · Hugging Face](https://huggingface.co/riffusion/riffusion-model-v1)
 
 [MuLife 프로젝트 계획서](https://rotoma-code.tistory.com/entry/MuLife-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B3%84%ED%9A%8D%EC%84%9C)
+
+
